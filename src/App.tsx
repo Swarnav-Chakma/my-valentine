@@ -34,7 +34,7 @@ export default function Page() {
   };
 
   return (
-    <div className="-mt-16 flex h-screen flex-col items-center justify-center bg-pink-400">
+    <div className="flex h-screen flex-col items-center justify-center bg-pink-400">
       {yesPressed ? (
         <>
           <img src="https://media1.tenor.com/m/9OoAFz-RAGoAAAAd/house-md-reaction.gif" />
