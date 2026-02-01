@@ -16,17 +16,17 @@ export default function Page() {
       "Are you sure?",
       "What if I asked really nicely?",
       "Pretty please",
-      "With a chocolate rice cake on top",
-      "What about a matcha frostie",
+      "With a cheesecake on top",
+      "What about a rice beer",
       "PLEASE POOKIE",
       "But :*(",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to swarnav's ghost",
+      "ok ur talking to Swarnav's ghost rn",
       "please babe",
       ":((((",
       "PRETTY PLEASE",
-      "Estoy muerto",
+      "Maiṁ mara gi'ā hāṁ",
       "No :(",
     ];
 
@@ -34,7 +34,7 @@ export default function Page() {
   };
 
   return (
-    <div className="-mt-16 flex h-screen flex-col items-center justify-center">
+    <div className="-mt-16 flex h-screen flex-col items-center justify-center bg-pink-200">
       {yesPressed ? (
         <>
           <img src="https://media1.tenor.com/m/9OoAFz-RAGoAAAAd/house-md-reaction.gif" />
